@@ -27,6 +27,7 @@ This project is a **Music Database** built using **SQLAlchemy** ORM to manage re
 │   ├── __pycache__
 │   └── runfile.py  # Script to interact with the models
 └── README.md  # This file
+```
 
 
 ## Models
